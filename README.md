@@ -8,7 +8,7 @@ Cyclistic is a fictional bike-share company based in Chicago, and the Director o
 
 ### Data
 
-Public data has been made available by Motivate International Inc. under this [license](https://ride.divvybikes.com/data-license-agreement). There are 12 datasets for Cyclistiic's historical trip data to analyze and identify trends. As Cyclistic is a fictional company, these datasets are appropriate for the purposes of this case study and will allow me to answer the business questions.
+Public data has been made available by Motivate International Inc. under this [license](https://ride.divvybikes.com/data-license-agreement). There are 12 datasets for Cyclistic's historical trip data to analyze and identify trends. As Cyclistic is a fictional company, these datasets are appropriate for the purposes of this case study and will allow me to answer the business questions.
 
 ### Tools
 
