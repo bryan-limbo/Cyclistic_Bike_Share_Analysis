@@ -1,4 +1,4 @@
-## Cyclistic_Bike_Share_Analysis
+## Cyclistic Bike Share Analysis
 
 A capstone project as part of the Google Data Analytics Certificate. The program briefly taught R, but I will be utilizing Python to analyze the dataset instead.
 
